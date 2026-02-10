@@ -1,4 +1,4 @@
-I am Data Scientist with Economy BA and experience in artificial intelligence, machine learning, and deep learning projects. I have experience in market research using Big Data to identify consumer trends and support brand entry. I am interested in continuing my professional development and contributing data science to business strategy and solutions.
+Data Scientist with a background in Economics and experience in machine learning and deep learning projects applied to market analysis and business decision-making. Specialized in data analysis with Python, predictive modeling, and the use of big data to identify consumer trends and support business strategies.
 
 - 🔭 I’m currently working on App creation 
 - 🌱 I’m currently learning AWS 
