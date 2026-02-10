@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I am Economist and Data Scientist with experience in artificial intelligence, machine learning, and deep learning projects. I have experience in market research using Big Data to identify consumer trends and support brand entry. I am interested in continuing my professional development and contributing data science to business strategy and solutions.
+I am Data Scientist with Economy BA and experience in artificial intelligence, machine learning, and deep learning projects. I have experience in market research using Big Data to identify consumer trends and support brand entry. I am interested in continuing my professional development and contributing data science to business strategy and solutions.
 
 - 🔭 I’m currently working on App creation 
 - 🌱 I’m currently learning AWS 
