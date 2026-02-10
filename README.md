@@ -2,7 +2,7 @@ Data Scientist with a background in Economics and experience in machine learning
 
 - 🔭 I’m currently working on App creation 
 - 🌱 I’m currently learning AWS 
-- 👯 I’m looking to collaborate on ML and Deep Learing and be part of a App creation team 
+- 👯 I’m looking to collaborate on ML and Deep Learing to see tendecies and catch opportunities for business strategy. 
 - 🤔 I’m looking for help with some tools as python, ML, DL, SQL, 
 - 💬 Ask me about my hobbies specually related to bike 
 - 📫 How to reach me: Send me a messange by www.linkedin.com/in/gabriela-jara-argudo-9314a319 
